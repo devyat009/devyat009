@@ -1,5 +1,5 @@
 ## About me:
-Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portugues (my mother tongue). I have some knowledgement in programming in Java, Python and UX Design.
+Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in Java, Python and UX Design.
 ## Language and Tools:
 Languages:
 
