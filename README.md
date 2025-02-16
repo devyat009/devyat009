@@ -1,13 +1,20 @@
 ## About me:
 Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in Java, Python and UX Design.
 ## Language and Tools:
-Skills:
+### Skills:
 
-| Python                   | Java                     | JavaScript              | HTML                    | CSS                     |
-|--------------------------|--------------------------|-------------------------|-------------------------|-------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/> |
+| Python                   | Java                     | JavaScript              | TypeScript              | HTML                    | CSS                     |
+|--------------------------|--------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/> |
 
-Current Studying:
+
+### Frameworks:
+| Angular                  |
+|--------------------------|
+| <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></div> |
+
+
+### Current Studying:
 | MySQL                    | C#                     | C                      |
 |--------------------------|------------------------|------------------------|
 | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></div> | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></div> | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/></div> |
