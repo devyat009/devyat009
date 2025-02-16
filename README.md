@@ -24,7 +24,7 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 
 
 
-OS:
+### OS:
 | Windows              |
 |-------------------------|
 | <div align="center"><img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows 11"/></div> |
