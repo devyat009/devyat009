@@ -1,6 +1,6 @@
 ## About me:
 Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in C#, C, Python, JavaScript, TypeScript. Currentyl I work as full stack junior, primarly on development of web aplications.
-## Language and Tools:
+
 ### Skills:
 
 | Python                   | Java                     | JavaScript              | TypeScript              | HTML                    | CSS                     |
