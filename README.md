@@ -9,9 +9,10 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 
 
 ### Frameworks:
-| Angular                  |
-|--------------------------|
-| <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></div> |
+| Angular                  | Bootstrap               |
+|--------------------------|-------------------------|
+| <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></div> | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/></div> |
+
 
 
 ### Current Studying:
