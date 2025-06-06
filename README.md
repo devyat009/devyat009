@@ -1,5 +1,5 @@
 ## About me:
-Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in C#, C, Python, JavaScript, TypeScript. Currentyl I work as full stack junior, primarly on development of web aplications.
+Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in C#, C, Python, JavaScript, TypeScript. Currentyl I work as junior developer, primarly on development of web aplications.
 
 ### Skills:
 
@@ -21,13 +21,9 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></div> | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></div> | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/></div> |
 
 
-
-
-
-### OS:
-| Windows              |
-|-------------------------|
-| <div align="center"><img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows 11"/></div> |
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/higor-stanley-6601bb23b?)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFFF)](mailto:stanleyhigor1@gmail.com)
 
 
 <!--
