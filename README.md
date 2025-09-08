@@ -25,6 +25,9 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/higor-stanley-6601bb23b?)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFFF)](mailto:stanleyhigor1@gmail.com)
 
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyat009&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
 
 <!--
 **devyat009/devyat009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
