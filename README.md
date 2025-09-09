@@ -17,6 +17,15 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 |-------------------------|
 | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/></div> |
 
+
+<details>
+	<summary>⚡ Top GitHub Directories</summary>
+	<br/>
+	<a href="https://github.com/devyat009/onibus-df-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+ 	<a href="https://github.com/devyat009/tinyscripts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=tinyscripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+
+</details>
+
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/higor-stanley-6601bb23b?)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFFF)](mailto:stanleyhigor1@gmail.com)
