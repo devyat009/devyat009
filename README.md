@@ -18,7 +18,7 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 | <div style="display: flex; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/></div> |
 
 
-<details>
+<details open>
 	<summary>My favorite github repositorys</summary>
 	<br/>
 	<a href="https://github.com/devyat009/onibus-df-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
