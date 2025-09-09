@@ -19,7 +19,7 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 
 
 <details open>
-	<summary>My favorite github repositorys</summary>
+	<summary>My favorite github repositories</summary>
 	<br/>
 	<a href="https://github.com/devyat009/onibus-df-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
  	<a href="https://github.com/devyat009/tinyscripts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=tinyscripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
