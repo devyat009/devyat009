@@ -21,11 +21,11 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 <details open>
 	<summary>My favorite github repositories</summary>
 	<br/>
-	<a href="https://github.com/devyat009/onibus-df-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
- 	<a href="https://github.com/devyat009/tinyscripts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=tinyscripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/devyat009/youtube-downloader"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=youtube-downloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
- 	<a href="https://github.com/devyat009/Python-Coding-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=Python-Coding-Journey&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/devyat009/devyat009.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=devyat009.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/devyat009/onibus-df-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
+ 	<a href="https://github.com/devyat009/tinyscripts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=tinyscripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
+	<a href="https://github.com/devyat009/youtube-downloader"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=youtube-downloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
+ 	<a href="https://github.com/devyat009/Python-Coding-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=Python-Coding-Journey&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
+	<a href="https://github.com/devyat009/devyat009.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=devyat009.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
 
 </details>
 
