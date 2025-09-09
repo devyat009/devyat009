@@ -21,13 +21,23 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 <details open>
 	<summary>My favorite github repositories</summary>
 	<br/>
-	<a href="https://github.com/devyat009/onibus-df-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
- 	<a href="https://github.com/devyat009/tinyscripts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=tinyscripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
-	<a href="https://github.com/devyat009/youtube-downloader"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=youtube-downloader&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
- 	<a href="https://github.com/devyat009/Python-Coding-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=Python-Coding-Journey&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
-	<a href="https://github.com/devyat009/devyat009.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=devyat009.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=e8e9eb" /></a>
-
+	<a href="https://github.com/devyat009/onibus-df-app" style="padding: 3px;">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=onibus-df-app&title_color=00000&text_color=00000&icon_color=2bbc8a&bg_color=fffff" />
+	</a>
+ 	<a href="https://github.com/devyat009/tinyscripts" style="padding: 3px;">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=tinyscripts&title_color=00000&text_color=00000&icon_color=2bbc8a&bg_color=fffff" />
+	</a>
+	<a href="https://github.com/devyat009/youtube-downloader" style="padding: 3px;">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=youtube-downloader&title_color=00000&text_color=00000&icon_color=2bbc8a&bg_color=fffff" />
+	</a>
+ 	<a href="https://github.com/devyat009/Python-Coding-Journey" style="padding: 3px;">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=Python-Coding-Journey&title_color=00000&text_color=00000&icon_color=2bbc8a&bg_color=fffff" />
+	</a>
+	<a href="https://github.com/devyat009/devyat009.github.io" style="padding: 3px;">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devyat009&repo=devyat009.github.io&title_color=00000&text_color=00000&icon_color=2bbc8a&bg_color=fffff" />
+	</a>
 </details>
+
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/higor-stanley-6601bb23b?)
