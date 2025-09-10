@@ -40,5 +40,5 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/higor-stanley-6601bb23b?)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/higorStanley)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FFFFF)](mailto:stanleyhigor1@gmail.com)
