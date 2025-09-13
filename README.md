@@ -16,8 +16,9 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 </div>
 
 <!-- Seção Habilidades Técnicas -->
-<div id="user-content-tech-skills" align="center">
 <img align="right" style="margin-top:-15px; transform: scaleX(-1);" src="https://raw.githubusercontent.com/devyat009/image-repo-for-my-repo/refs/heads/main/etc/starbound/sharkdude.gif"/>
+<div id="user-content-tech-skills" align="center">
+
   
 <h2 align="left">Skills</h2>
 <table width="100%">
@@ -76,7 +77,7 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 </tr>
 </table>
 </div>
-<img align="right" style="margin-top:-25px; transform: scaleX(-1);" src="https://raw.githubusercontent.com/devyat009/image-repo-for-my-repo/refs/heads/main/etc/starbound/squeem.gif"/>
+<!-- <img align="right" style="margin-top:-25px; transform: scaleX(-1);" src="https://raw.githubusercontent.com/devyat009/image-repo-for-my-repo/refs/heads/main/etc/starbound/squeem.gif"/> -->
 <details open>
   <summary>My favorite github repositories</summary>
   <br/>
