@@ -1,7 +1,7 @@
 <img align="right" style="margin-top:-5px; transform: scaleX(-1);" src="https://raw.githubusercontent.com/devyat009/image-repo-for-my-repo/refs/heads/main/etc/starbound/crab.gif"/>
 <h2 align="left">About Me</h2>
 <div align='left'>
-Hello I'm junior developer and student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in C#, C, Python, JavaScript, TypeScript. Currentyl I work as junior developer, primarly on development of web aplications.
+Hello I'm student in System Development, as bilangual I can speak in English and Brazilian Portuguese (my mother tongue). I have some knowledgement in programming in C#, C, Python, JavaScript, TypeScript. Currentyl I work as junior developer, primarly on development of web aplications.
 </div>
 
 <img align="right" style="margin-top:19px; transform: scaleX(-1);" src="https://raw.githubusercontent.com/devyat009/image-repo-for-my-repo/refs/heads/main/etc/starbound/snoogle.gif"/>
