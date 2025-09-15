@@ -53,13 +53,8 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 
 <h4 align="left">Tools & Methodologies</h4>
 <div align="left">
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Scrum-0077c8?style=for-the-badge" alt="Scrum"/>
   <img src="https://img.shields.io/badge/Kanban-4D90F0?style=for-the-badge" alt="Kanban"/>
 
