@@ -82,7 +82,7 @@ Hello I'm student in System Development, as bilangual I can speak in English and
 </table>
 </div>
 <!-- <img align="right" style="margin-top:-25px; transform: scaleX(-1);" src="https://raw.githubusercontent.com/devyat009/image-repo-for-my-repo/refs/heads/main/etc/starbound/squeem.gif"/> -->
-<details open>
+<!-- <details open>
   <summary>My favorite github repositories</summary>
   <br/>
   <div align="center">
@@ -103,6 +103,7 @@ Hello I'm student in System Development, as bilangual I can speak in English and
     </a>
   </div>
 </details>
+-->
 
 
 <div align="center" style="margin-top: 24px; width: 100%;">
